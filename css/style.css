@@ -1012,7 +1012,7 @@ img{
 
 .list-style-two li{
 	position:relative;
-	color:#afd3f3;
+	color:#ffffff;
 	font-size:14px;
 	font-weight:400;
 	margin-bottom:10px;
@@ -1023,7 +1023,7 @@ img{
 	position:absolute;
 	left:0px;
 	top:0px;
-	color:#3276ff;
+	color:#ffffff;
 	font-size:14px;
 }
 
@@ -3005,7 +3005,7 @@ img{
 .about-section .content-column .inner-column .text p{
 	position:relative;
 	font-size:16px;
-	color:#1a1e66;
+	color:#000000;
 	line-height:1.6em;
 	margin-bottom:15px;
 }
@@ -3876,7 +3876,7 @@ img{
 
 .case-section .sec-title .text,
 .case-section .sec-title-two .text{
-	color:#1a1e66;
+	color:#000000;
 	font-size:16px;
 	font-weight:400;
 	line-height:1.8em;
